@@ -12,20 +12,25 @@ backend d'une application de chat en temps réel, utilisant Node.js, Express, So
 
    ```
    https://github.com/rajerison-jules/ChatServerNode.git
-   
-   ```
-
-2. Accédez au répertoire du projet : 
 
    ```
+
+2. Accédez au répertoire du projet :
+
+   ````
    cd chat-backend ```
+
+   ````
 
 3. Installez les dépendances :
 
-   ```
+   ````
    npm install```
 
-3. lancez le projet : 
+   ````
 
-   ```
+4. lancez le projet :
+
+   ````
    npm run dev ```
+   ````
